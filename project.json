@@ -1,6 +1,6 @@
 {
-  "name": "SimmiTrainingProject",
-  "description": "simmi Process",
+  "name": "Simmi TrainingProject",
+  "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.12.3]",
