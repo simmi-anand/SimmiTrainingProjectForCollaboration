@@ -88,7 +88,7 @@
         <InArgument x:TypeArguments="s:String[]">[new String(6){}]</InArgument>
       </Assign.Value>
     </Assign>
-    <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="430.4,85.6" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;How many names in employeeNames &quot; + employeeNames.Count.ToString]" />
+    <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="430.4,85.6" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;How many names in employeeNames &quot; + employeeNames.Length.ToString]" />
     <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="430.4,85.6" sap2010:WorkflowViewState.IdRef="MessageBox_2" Text="[&quot;Total colors will be &quot; + colors.Count.ToString]" />
     <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" sap2010:Annotation.AnnotationText="To access second element of the array, the index number used is 1" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="430.4,129.6" sap2010:WorkflowViewState.IdRef="MessageBox_3" Text="[&quot;Hello &quot; + employeeNames(1)]">
       <sap:WorkflowViewStateService.ViewState>
