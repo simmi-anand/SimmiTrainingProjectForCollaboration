@@ -1,0 +1,24 @@
+RPA is the future. Here... Automation is the future.
+
+Here...Automation is the future.
+
+UI interactions type--
+1. Input action -- keyboard(type or shortcuts) and mouse(single click, double click, left click , right click, center click)
+2. Output action -- Read the data or extract the information 
+
+
+
+
+Containers ---
+1. Open Application -- it launches the new application window
+2. Attach Window  -- it refers to already opened application/ running appplication
+
+3. Open Browser  -- to launch a new browser session
+4. Attach Browser  -- use the already opened browser
+
+
+Task -- Basic interaction with Notepad application 
+Type some text -
+Save the file -
+
+Here....Automation is the future.
