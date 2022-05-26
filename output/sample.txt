@@ -1,3 +1,13 @@
+This is a text written by simulate type method
+This is second line.
+
+
+
+This is a text written by send witndow message method
+
+
+
+
 RPA is the future. Here... Automation is the future.
 
 Here...Automation is the future.
@@ -5,6 +15,11 @@ Here...Automation is the future.
 UI interactions type--
 1. Input action -- keyboard(type or shortcuts) and mouse(single click, double click, left click , right click, center click)
 2. Output action -- Read the data or extract the information 
+
+Input Methods using input actions  -- type into , click etc
+1. Default 
+2. SendWindowMessage
+3. Simulate Type
 
 
 
