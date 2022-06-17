@@ -1,0 +1,41 @@
+INVOICE
+
+Invoice No. :  INV0001
+Date : 15 Feb 2019
+Terms : 30 Days
+Due Date : 17 Mar 2019
+
+From
+RP Automation Services
+rp.automation@rpaservtech.com
+1, Global Enterprise Lane
+Delhi
+110007
+P: +91-8860200945
+To
+Packt Systems
+ap@packtsystems.com
+87, Packts Towers
+Mumbai
+400001
+P: +91-22-93838838
+
+Description Price Qty Amount
+
+Automation Services ₹150,000.00 2 ₹300,000.00
+Professional Services Monthly Labour
+
+Computer Hardware Equipment ₹20,000.00 4 ₹80,000.00
+Laptops
+
+Subtotal ₹380,000.00
+
+Discount (0%) -₹0.00
+
+Tax (18%) ₹68,400.00
+
+Total ₹448,400.00
+
+Balance Due ₹448,400.00
+
+Notes: Payment Due in 30 Days

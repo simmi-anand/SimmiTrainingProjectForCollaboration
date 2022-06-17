@@ -1,6 +1,6 @@
-06/06/2022 13:59:36 User is Signed into the UIPath ACME successfully.
-06/06/2022 13:59:42 Work Item1 is downloaded in the local folder
-06/06/2022 13:59:47 UIPath ACME data reset successfully.
-06/06/2022 14:00:50 Failed to find the WIIDs. 
-06/06/2022 14:00:51 System Logged out.
-06/06/2022 14:00:52 Browser window is closed.
+06/16/2022 10:59:54 User is Signed into the UIPath ACME successfully.
+06/16/2022 10:59:59 Work Item1 is downloaded in the local folder
+06/16/2022 11:00:05 UIPath ACME data reset successfully.
+06/16/2022 11:01:08 Failed to find the WIIDs. 
+06/16/2022 11:01:08 System Logged out.
+06/16/2022 11:01:08 Browser window is closed.

@@ -1,0 +1,15 @@
+Date: Jun 30, 2019
+Sit Amet Corp. Balance Due: $17,310.00
+1938 Amet Avenue
+Lake Cowichan
+USA
+Bill To
+ACME Inc.
+5171 Dui, Street
+Denver, Colorado
+USA
+Item Quantity Rate at fella)
+Services 1 $14,425.00 $14,425.00
+Subtotal $14,425.00
+Tax (20%) $2.885.00
+Total: $17.310.00
